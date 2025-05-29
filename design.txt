@@ -230,23 +230,4 @@ Use the below sample run as a guide to test your program.
 
 
 
-Complete zyBooks sections 11.1 to 11.11 CS161B: Arrays, and zyLabs 11.15 and 11.16
-Complete all sections of your Algorithmic Design Document.
-You may use any IDE to write your code. If your Transfer University is PSU or plan to do more CS classes here at PCC, check out the Special Note For PSU Transfer section in the Syllabus.
-Please bookmark the PCC Linux and Vim Manual - this will become a frequently used reference!
-Include pseudocode in part d of the design document.
-Follow these Coding Construct Requirements:
-Your program must have function prototypes. Place the prototypes for your functions globally, after your #includes, just before main(). All functions must be implemented after main().
-Each function must do only what it is supposed to do. For example, the menu function will simply display the menu, the readOption will take the option from the user, and so on.
-You may not use a while true loop and break statements in the loop.
-Your program must do all data validation mentioned in the functions.
-Try not to have any redundant code (repeated code) in your program. That is the purpose of functions.
-When you display the scores, it should be formatted appropriately with one decimal place.
-Use constants where appropriate (for discount percentages).
-Do not use arrays or any vectors for this program. Use only the concepts and functions we have learned so far.
-Print a welcome and goodbye message.
-Please open and compare your work with the grading rubric before submitting.
-Remember to follow all style guidelines.
-Download your Algorithmic Design Document as a PDF (File -> Download -> PDF), rename it to a03.pdf, and upload it to the D2L assignment by Wednesday.
-Upload your a03.cpp C++ source file to the D2L assignment by Sunday.
-Do your own work. Consult the syllabus for more information about academic integrity.
+
